@@ -67,6 +67,6 @@ to change which information is included in the archive. See
 linkgit:git-diagnose[1] for the list of valid values for `mode` and details
 about their usage.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

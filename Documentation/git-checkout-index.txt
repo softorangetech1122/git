@@ -178,6 +178,6 @@ $ git checkout-index --prefix=.merged- Makefile
 This will check out the currently cached copy of `Makefile`
 into the file `.merged-Makefile`.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

@@ -1,5 +1,5 @@
 /*
- * Simple text-based progress display module for GIT
+ * Simple text-based progress display module for Git
  *
  * Copyright (c) 2007 by Nicolas Pitre <nico@fluxnic.net>
  *

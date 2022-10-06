@@ -1,4 +1,4 @@
-GIT v1.6.5 Release Notes
+Git v1.6.5 Release Notes
 ========================
 
 In git 1.7.0, which was planned to be the release after 1.6.5, "git

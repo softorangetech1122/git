@@ -477,6 +477,6 @@ $ git rev-parse --default master --verify --end-of-options $REV
 +
 but if $REV is empty, the commit object name from master will be printed.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

@@ -398,6 +398,6 @@ linkgit:git-reflog[1],
 linkgit:git-reset[1],
 linkgit:git-switch[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

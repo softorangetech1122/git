@@ -74,6 +74,6 @@ then you can ask that to be pulled with
 	git request-pull v1.0 https://git.ko.xz/project master:for-linus
 
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

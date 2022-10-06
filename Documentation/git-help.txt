@@ -226,6 +226,6 @@ $ git config --global web.browser firefox
 as they are probably more user specific than repository specific.
 See linkgit:git-config[1] for more information about this.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

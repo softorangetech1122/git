@@ -436,6 +436,6 @@ These settings help tools pick the right format for output such as patches and
 result in files being checked out in the appropriate line ending for the
 platform.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

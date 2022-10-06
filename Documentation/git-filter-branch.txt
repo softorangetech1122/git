@@ -698,6 +698,6 @@ issues:
   runs commands that really were vetted for special cases, but they
   run it on a different OS where it doesn't work, as noted above.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

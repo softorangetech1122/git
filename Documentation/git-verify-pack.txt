@@ -48,6 +48,6 @@ for objects that are not deltified in the pack, and
 
 for objects that are deltified.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

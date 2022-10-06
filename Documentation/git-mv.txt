@@ -64,6 +64,6 @@ gitfile, as otherwise the history of the submodule will be deleted
 too. Both steps will be obsolete when recursive submodule update has
 been implemented.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

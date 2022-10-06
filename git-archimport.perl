@@ -75,7 +75,7 @@ our($opt_h,$opt_f,$opt_v,$opt_T,$opt_t,$opt_D,$opt_a,$opt_o);
 
 sub usage() {
     print STDERR <<END;
-usage: git archimport     # fetch/update GIT from Arch
+usage: git archimport     # fetch/update Git from Arch
        [ -h ] [ -v ] [ -o ] [ -a ] [ -f ] [ -T ] [ -D depth ] [ -t tempdir ]
        repository/arch-branch [ repository/arch-branch] ...
 END
@@ -407,7 +407,7 @@ sub process_patchset_fast {
     # create the branch if needed
     #
     if ($ps->{type} eq 'i' && !$import) {
-        die "Should not have more than one 'Initial import' per GIT import: $ps->{id}";
+        die "Should not have more than one 'Initial import' per Git import: $ps->{id}";
     }
 
     unless ($import) { # skip for import

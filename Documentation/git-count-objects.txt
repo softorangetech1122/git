@@ -49,6 +49,6 @@ contain C-style backslashed escape sequences.
 
 Print sizes in human readable format
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

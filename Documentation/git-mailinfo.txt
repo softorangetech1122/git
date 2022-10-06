@@ -122,6 +122,6 @@ include::includes/cmd-config-section-all.txt[]
 
 include::config/mailinfo.txt[]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

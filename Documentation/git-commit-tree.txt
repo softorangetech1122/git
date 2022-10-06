@@ -96,6 +96,6 @@ SEE ALSO
 linkgit:git-write-tree[1]
 linkgit:git-commit[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

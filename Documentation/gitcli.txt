@@ -241,6 +241,6 @@ in the index can take `--staged` and/or `--worktree`.
 * The two options can be specified together to ask a command to work
   on both the index and the working tree.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

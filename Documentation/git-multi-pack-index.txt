@@ -132,6 +132,6 @@ Document] and linkgit:gitformat-pack[5] for more information on the
 multi-pack-index feature and its file format.
 
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

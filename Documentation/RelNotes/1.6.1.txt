@@ -1,4 +1,4 @@
-GIT v1.6.1 Release Notes
+Git v1.6.1 Release Notes
 ========================
 
 Updates since v1.6.0

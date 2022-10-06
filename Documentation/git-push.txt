@@ -50,7 +50,7 @@ OPTIONS[[OPTIONS]]
 <repository>::
 	The "remote" repository that is destination of a push
 	operation.  This parameter can be either a URL
-	(see the section <<URLS,GIT URLS>> below) or the name
+	(see the section <<URLS,Git URLS>> below) or the name
 	of a remote (see the section <<REMOTES,REMOTES>> below).
 
 <refspec>...::
@@ -699,6 +699,6 @@ include::includes/cmd-config-section-all.txt[]
 
 include::config/push.txt[]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

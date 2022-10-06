@@ -474,6 +474,6 @@ linkgit:git-format-patch[1],
 linkgit:git-send-email[1],
 linkgit:git-am[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

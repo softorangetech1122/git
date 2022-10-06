@@ -133,6 +133,6 @@ linkgit:git-mergetool[1]::
 linkgit:git-config[1]::
 	 Get and set repository or global options
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

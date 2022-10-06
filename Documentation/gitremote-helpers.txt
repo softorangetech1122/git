@@ -560,6 +560,6 @@ linkgit:git-remote-fd[1]
 
 linkgit:git-fast-import[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

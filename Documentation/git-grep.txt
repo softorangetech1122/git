@@ -347,6 +347,6 @@ include::includes/cmd-config-section-all.txt[]
 
 include::config/grep.txt[]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

@@ -117,6 +117,6 @@ Note that if `git shortlog` is run outside of a repository (to process
 log contents on standard input), it will look for a `.mailmap` file in
 the current directory.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

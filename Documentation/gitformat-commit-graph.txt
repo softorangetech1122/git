@@ -178,6 +178,6 @@ possibly erroneous data in these chunks with the IDs "GDAT" and "GDOV". By
 changing the IDs, newer versions of Git will silently ignore those older
 chunks and write the new information without trusting the incorrect data.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

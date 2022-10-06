@@ -402,6 +402,6 @@ linkgit:git-diff[1], linkgit:git-ls-files[1],
 linkgit:git-add[1], linkgit:git-rm[1],
 linkgit:git-mergetool[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

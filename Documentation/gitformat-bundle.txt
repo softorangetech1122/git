@@ -106,6 +106,6 @@ bundle' to abort.
   linkgit:git-rev-list[1]. The resulting pack-file must be marked as a
   `.promisor` pack-file after it is unbundled.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

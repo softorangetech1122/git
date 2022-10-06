@@ -133,6 +133,6 @@ Options for `delete`
 used with `expire`.
 
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

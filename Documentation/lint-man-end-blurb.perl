@@ -14,7 +14,7 @@ local $/;
 while (my $slurp = <>) {
 	report($ARGV, "has no 'Part of the linkgit:git[1] suite' end blurb")
 		unless $slurp =~ m[
-		^GIT\n
+		^Git\n
 		 ---\n
 		\QPart of the linkgit:git[1] suite\E \n
 		\z

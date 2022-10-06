@@ -125,6 +125,6 @@ SEE ALSO
 linkgit:git-check-mailmap[1]
 
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

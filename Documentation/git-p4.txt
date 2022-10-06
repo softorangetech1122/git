@@ -798,6 +798,6 @@ IMPLEMENTATION DETAILS
   line is used by later 'git p4 sync' operations to know which p4
   changes are new.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

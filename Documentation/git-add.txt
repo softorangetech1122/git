@@ -449,6 +449,6 @@ linkgit:git-mv[1]
 linkgit:git-commit[1]
 linkgit:git-update-index[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

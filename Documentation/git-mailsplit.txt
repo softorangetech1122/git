@@ -52,6 +52,6 @@ OPTIONS
 	Input is of the "mboxrd" format and "^>+From " line escaping is
 	reversed.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

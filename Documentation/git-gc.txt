@@ -161,6 +161,6 @@ linkgit:git-reflog[1]
 linkgit:git-repack[1]
 linkgit:git-rerere[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

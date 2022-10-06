@@ -500,6 +500,6 @@ Multiple checkout in general is still experimental, and the support
 for submodules is incomplete. It is NOT recommended to make multiple
 checkouts of a superproject.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

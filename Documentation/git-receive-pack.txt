@@ -256,6 +256,6 @@ SEE ALSO
 --------
 linkgit:git-send-pack[1], linkgit:gitnamespaces[7]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

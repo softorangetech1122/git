@@ -236,6 +236,6 @@ linkgit:git-rm[1],
 linkgit:gitrepository-layout[5],
 linkgit:git-check-ignore[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

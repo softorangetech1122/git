@@ -587,6 +587,6 @@ and running `git config section.Subsection.key value2` will result in
 --------
 
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

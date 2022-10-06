@@ -84,6 +84,6 @@ linkgit:git-fsck[1],
 linkgit:git-gc[1],
 linkgit:git-reflog[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

@@ -38,7 +38,7 @@ sub usage(;$) {
 	my $msg = shift;
 	print(STDERR "Error: $msg\n") if $msg;
 	print STDERR <<END;
-usage: git cvsimport     # fetch/update GIT from CVS
+usage: git cvsimport     # fetch/update Git from CVS
        [-o branch-for-HEAD] [-h] [-v] [-d CVSROOT] [-A author-conv-file]
        [-p opts-for-cvsps] [-P file] [-C GIT_repository] [-z fuzz] [-i] [-k]
        [-u] [-s subst] [-a] [-m] [-M regex] [-S regex] [-L commitlimit]
@@ -682,7 +682,7 @@ my %index; # holds filenames of one index per branch
 
 unless (-d $git_dir) {
 	system(qw(git init));
-	die "Cannot init the GIT db at $git_tree: $?\n" if $?;
+	die "Cannot init the Git db at $git_tree: $?\n" if $?;
 	system(qw(git read-tree --empty));
 	die "Cannot init an empty tree: $?\n" if $?;
 

@@ -1,7 +1,7 @@
-GIT web interface (gitweb) - JavaScript
+Git web interface (gitweb) - JavaScript
 =======================================
 
-This directory holds JavaScript code used by gitweb (GIT web interface).
+This directory holds JavaScript code used by gitweb (Git web interface).
 Scripts from there would be concatenated together in the order specified
 by gitweb/Makefile into gitweb/static/gitweb.js, during building of
 gitweb/gitweb.cgi (during gitweb building).  The resulting file (or its

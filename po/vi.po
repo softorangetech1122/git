@@ -1,5 +1,5 @@
-# Vietnamese translation for GIT-CORE.
-# Bản dịch tiếng Việt dành cho GIT-CORE.
+# Vietnamese translation for Git-CORE.
+# Bản dịch tiếng Việt dành cho Git-CORE.
 # This file is distributed under the same license as the git-core package.
 # https://raw.githubusercontent.com/git-l10n/git-po/pot/main/po/git.pot
 # Nguyễn Thái Ngọc Duy <pclouds@gmail.com>, 2012.
@@ -21655,13 +21655,13 @@ msgid "Failed to open for writing %s: %s"
 msgstr "Gặp lỗi khi mở “%s” để ghi: %s"
 
 msgid ""
-"Lines beginning in \"GIT:\" will be removed.\n"
+"Lines beginning in \"Git:\" will be removed.\n"
 "Consider including an overall diffstat or table of contents\n"
 "for the patch you are writing.\n"
 "\n"
 "Clear the body content if you don't wish to send a summary.\n"
 msgstr ""
-"Các dòng bắt đầu bằng \"GIT:\" sẽ bị xóa bỏ.\n"
+"Các dòng bắt đầu bằng \"Git:\" sẽ bị xóa bỏ.\n"
 "Cân nhắc bao gồm một thống kê diff toàn thể hay bảng nội dung\n"
 "cho miếng vá mà bạn đang viết.\n"
 "\n"

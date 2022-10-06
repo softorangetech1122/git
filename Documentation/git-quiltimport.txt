@@ -59,6 +59,6 @@ variable.
 --keep-non-patch::
 	Pass `-b` flag to 'git mailinfo' (see linkgit:git-mailinfo[1]).
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

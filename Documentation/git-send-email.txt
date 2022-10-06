@@ -506,6 +506,6 @@ SEE ALSO
 --------
 linkgit:git-format-patch[1], linkgit:git-imap-send[1], mbox(5)
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

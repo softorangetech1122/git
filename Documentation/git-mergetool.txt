@@ -124,6 +124,6 @@ vimdiff
 ~~~~~~~
 include::mergetools/vimdiff.txt[]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

@@ -90,6 +90,6 @@ create_virtual_base::
 	then the first file is left empty. The result is suitable
 	as a virtual base input for a 3-way merge.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

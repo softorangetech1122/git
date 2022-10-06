@@ -455,6 +455,6 @@ SEE ALSO
 --------
 linkgit:gitsubmodules[7], linkgit:gitmodules[5].
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

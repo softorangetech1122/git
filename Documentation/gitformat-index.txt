@@ -417,6 +417,6 @@ The remaining data of each directory block is grouped by type:
   tools should avoid interacting with a sparse index unless they understand
   this extension.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

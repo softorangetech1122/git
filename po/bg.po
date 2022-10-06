@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the git package.
 # Alexander Shopov <ash@kambanaria.org>, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022.
 # ========================
-# DICTIONARY TO MERGE IN GIT GUI
+# DICTIONARY TO MERGE IN Git GUI
 # ------------------------
 # range диапазон
 # base база
@@ -22928,13 +22928,13 @@ msgid "Failed to open for writing %s: %s"
 msgstr "„%s“ не може да се отвори за запис: %s"
 
 msgid ""
-"Lines beginning in \"GIT:\" will be removed.\n"
+"Lines beginning in \"Git:\" will be removed.\n"
 "Consider including an overall diffstat or table of contents\n"
 "for the patch you are writing.\n"
 "\n"
 "Clear the body content if you don't wish to send a summary.\n"
 msgstr ""
-"Редовете започващи с „GIT:“ ще бъдат прескачани.\n"
+"Редовете започващи с „Git:“ ще бъдат прескачани.\n"
 "Добре е да включите статистика на разликите или някаква таблица на "
 "съдържанието\n"
 "на подготвяната кръпка.\n"

@@ -128,6 +128,6 @@ for future formats:
   parse the multi-pack-index file format documented in
   the multi-pack-index file format section of linkgit:gitformat-pack[5].
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

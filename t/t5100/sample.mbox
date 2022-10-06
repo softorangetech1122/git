@@ -102,7 +102,7 @@ Message-ID: <20050721.091036.01119516.yoshfuji@linux-ipv6.org>
 From: YOSHIFUJI Hideaki / =?ISO-2022-JP?B?GyRCNUhGIzFRTEAbKEI=?= 
 	<yoshfuji@linux-ipv6.org>
 Newsgroups: gmane.comp.version-control.git
-Subject: [PATCH 1/2] GIT: Try all addresses for given remote name
+Subject: [PATCH 1/2] Git: Try all addresses for given remote name
 Date: Thu, 21 Jul 2005 09:10:36 -0400 (EDT)
 Lines: 99
 Organization: USAGI/WIDE Project
@@ -263,7 +263,7 @@ diff --git a/Documentation/git-cvsimport-script.txt b/Documentation/git=
  	are supported.
 =20
 +-C <target-dir>::
-+        The GIT repository to import to.  If the directory doesn't
++        The Git repository to import to.  If the directory doesn't
 +        exist, it will be created.  Default is the current directory.
 +
  -i::

@@ -296,6 +296,6 @@ identifying information of the remote user who performed the push.
 All `CGI` environment variables are available to each of the hooks
 invoked by the 'git-receive-pack'.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

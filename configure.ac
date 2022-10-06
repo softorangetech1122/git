@@ -326,13 +326,13 @@ AS_HELP_STRING([],            [ARG can be also prefix for expat library and head
 GIT_PARSE_WITH(expat))
 #
 # Define NO_FINK if you are building on Darwin/Mac OS X, have Fink
-# installed in /sw, but don't want GIT to link against any libraries
+# installed in /sw, but don't want Git to link against any libraries
 # installed there.  If defined you may specify your own (or Fink's)
 # include directories and library directories by defining CFLAGS
 # and LDFLAGS appropriately.
 #
 # Define NO_DARWIN_PORTS if you are building on Darwin/Mac OS X,
-# have DarwinPorts installed in /opt/local, but don't want GIT to
+# have DarwinPorts installed in /opt/local, but don't want Git to
 # link against any libraries installed there.  If defined you may
 # specify your own (or DarwinPort's) include directories and
 # library directories by defining CFLAGS and LDFLAGS appropriately.

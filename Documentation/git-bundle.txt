@@ -340,6 +340,6 @@ FILE FORMAT
 
 See linkgit:gitformat-bundle[5].
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

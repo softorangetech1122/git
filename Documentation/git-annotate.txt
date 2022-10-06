@@ -28,6 +28,6 @@ SEE ALSO
 --------
 linkgit:git-blame[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

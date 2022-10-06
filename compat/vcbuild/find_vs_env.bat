@@ -1,11 +1,11 @@
 @ECHO OFF
 REM ================================================================
 REM You can use either GCC (the default) or MSVC to build git
-REM using the GIT-SDK command line tools.
+REM using the Git-SDK command line tools.
 REM        $ make
 REM        $ make MSVC=1
 REM
-REM GIT-SDK BASH windows inherit environment variables with all of
+REM Git-SDK BASH windows inherit environment variables with all of
 REM the bin/lib/include paths for GCC.  It DOES NOT inherit values
 REM for the corresponding MSVC tools.
 REM

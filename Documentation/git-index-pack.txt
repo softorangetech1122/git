@@ -140,6 +140,6 @@ new .keep file was successfully created. This is useful to remove a
 .keep file used as a lock to prevent the race with 'git repack'
 mentioned above.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

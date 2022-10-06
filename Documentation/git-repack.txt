@@ -237,6 +237,6 @@ SEE ALSO
 linkgit:git-pack-objects[1]
 linkgit:git-prune-packed[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

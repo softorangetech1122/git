@@ -1,5 +1,5 @@
 /*
- * GIT - The information manager from hell
+ * Git - The information manager from hell
  *
  * Copyright (C) Eric Biederman, 2005
  */

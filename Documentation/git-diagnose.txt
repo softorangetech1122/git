@@ -60,6 +60,6 @@ as it can be used to reconstruct the full contents of the diagnosed repository.
 Users should exercise caution when sharing an archive generated with
 `--mode=all`.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

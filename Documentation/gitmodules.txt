@@ -130,6 +130,6 @@ SEE ALSO
 --------
 linkgit:git-submodule[1], linkgit:gitsubmodules[7], linkgit:git-config[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

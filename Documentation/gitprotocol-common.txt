@@ -113,6 +113,6 @@ Examples (as C-style strings):
   "0004"            ""
 ----
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

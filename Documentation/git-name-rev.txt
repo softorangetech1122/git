@@ -110,6 +110,6 @@ Another nice thing you can do is:
 % git log | git name-rev --stdin
 ------------
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

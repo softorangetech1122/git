@@ -47,6 +47,6 @@ OPTIONS
 --max-input-size=<size>::
 	Die, if the pack is larger than <size>.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

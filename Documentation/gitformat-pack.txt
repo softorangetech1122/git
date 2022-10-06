@@ -633,6 +633,6 @@ complicated to construct, and so aren't pursued here. The obvious drawback to
 the current implementation is that the entire cruft pack must be re-written from
 scratch.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

@@ -698,6 +698,6 @@ linkgit:gitweb.conf[5], linkgit:git-instaweb[1]
 
 `gitweb/README`, `gitweb/INSTALL`
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

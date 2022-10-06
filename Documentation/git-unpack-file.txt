@@ -23,6 +23,6 @@ OPTIONS
 <blob>::
 	Must be a blob id
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

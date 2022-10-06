@@ -391,6 +391,6 @@ current implementation uses trace2 session IDs (see
 link:technical/api-trace2.html[api-trace2] for details), but this may change
 and users of the session ID should not rely on this fact.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

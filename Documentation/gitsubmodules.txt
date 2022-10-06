@@ -282,6 +282,6 @@ SEE ALSO
 --------
 linkgit:git-submodule[1], linkgit:gitmodules[5].
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

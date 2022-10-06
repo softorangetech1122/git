@@ -455,6 +455,6 @@ SEE ALSO
 linkgit:git-read-tree[1]
 linkgit:gitignore[5]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

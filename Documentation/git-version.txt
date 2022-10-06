@@ -23,6 +23,6 @@ OPTIONS
 	Include additional information about how git was built for diagnostic
 	purposes.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

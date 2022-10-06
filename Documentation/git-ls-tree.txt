@@ -160,6 +160,6 @@ objectsize[:padded]::
 path::
 	The pathname of the object.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

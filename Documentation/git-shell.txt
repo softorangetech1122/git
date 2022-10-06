@@ -101,6 +101,6 @@ ssh(1),
 linkgit:git-daemon[1],
 contrib/git-shell-commands/README
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

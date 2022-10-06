@@ -1575,6 +1575,6 @@ SEE ALSO
 --------
 linkgit:git-fast-export[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

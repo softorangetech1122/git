@@ -175,6 +175,6 @@ An update will fail (without changing <ref>) if the current user is
 unable to create a new log file, append to the existing log file
 or does not have committer information available.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

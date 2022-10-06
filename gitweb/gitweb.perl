@@ -114,14 +114,14 @@ our $site_footer = "++GITWEB_SITE_FOOTER++";
 our @stylesheets = ("++GITWEB_CSS++");
 # URI of a single stylesheet, which can be overridden in GITWEB_CONFIG.
 our $stylesheet = undef;
-# URI of GIT logo (72x27 size)
+# URI of Git logo (72x27 size)
 our $logo = "++GITWEB_LOGO++";
-# URI of GIT favicon, assumed to be image/png type
+# URI of Git favicon, assumed to be image/png type
 our $favicon = "++GITWEB_FAVICON++";
 # URI of gitweb.js (JavaScript code for gitweb)
 our $javascript = "++GITWEB_JS++";
 
-# URI and label (title) of GIT logo link
+# URI and label (title) of Git logo link
 #our $logo_url = "http://www.kernel.org/pub/software/scm/git/docs/";
 #our $logo_label = "git documentation";
 our $logo_url = "http://git-scm.com/";

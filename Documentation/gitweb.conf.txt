@@ -222,7 +222,7 @@ Finding files
 The following configuration variables tell gitweb where to find files.
 The values of these variables are paths on the filesystem.
 
-$GIT::
+$Git::
 	Core git executable to use.  By default set to `$GIT_BINDIR/git`, which
 	in turn is by default set to `$(bindir)/git`.  If you use Git installed
 	from a binary package, you should usually set this to "/usr/bin/git".
@@ -976,6 +976,6 @@ linkgit:gitweb[1], linkgit:git-instaweb[1]
 
 'gitweb/README', 'gitweb/INSTALL'
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

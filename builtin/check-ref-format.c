@@ -1,5 +1,5 @@
 /*
- * GIT - The information manager from hell
+ * Git - The information manager from hell
  */
 
 #include "cache.h"

@@ -153,6 +153,6 @@ SEE ALSO
 --------
 linkgit:git-cherry-pick[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

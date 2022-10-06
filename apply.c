@@ -1998,7 +1998,7 @@ static int parse_binary(struct apply_state *state,
 			struct patch *patch)
 {
 	/*
-	 * We have read "GIT binary patch\n"; what follows is a line
+	 * We have read "Git binary patch\n"; what follows is a line
 	 * that says the patch method (currently, either "literal" or
 	 * "delta") and the length of data before deflating; a
 	 * sequence of 'length-byte' followed by base-85 encoded data
@@ -2139,7 +2139,7 @@ static int parse_chunk(struct apply_state *state, char *buffer, unsigned long si
 		return -128;
 
 	if (!patchsize) {
-		static const char git_binary[] = "GIT binary patch\n";
+		static const char git_binary[] = "Git binary patch\n";
 		int hd = hdrsize + offset;
 		unsigned long llen = linelen(buffer + hd, size - hd);
 

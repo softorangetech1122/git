@@ -35,7 +35,7 @@ my %SECTIONS;
 		'FILE FORMAT' => {
 			order => $order++,
 		},
-		'GIT' => {
+		'Git' => {
 			required => 1,
 			order => $order++,
 		},

@@ -56,6 +56,6 @@ OPTIONS
 
 	This is the default.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

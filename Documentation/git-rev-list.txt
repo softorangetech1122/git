@@ -124,6 +124,6 @@ sort -n
 git rev-list --disk-usage --objects --remotes=$suspect --not --remotes=origin
 ----------
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

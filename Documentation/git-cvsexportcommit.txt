@@ -113,6 +113,6 @@ $ cd ~/project_cvs_checkout
 $ git cherry cvshead myhead | sed -n 's/^+ //p' | xargs -l1 git cvsexportcommit -c -p -v
 ------------
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

@@ -89,6 +89,6 @@ Use 'git stripspace --strip-comments' to obtain:
 |The end.$
 ---------
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

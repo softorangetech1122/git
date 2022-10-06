@@ -2076,8 +2076,8 @@ static int is_crontab_available(void)
 #endif
 }
 
-#define BEGIN_LINE "# BEGIN GIT MAINTENANCE SCHEDULE"
-#define END_LINE "# END GIT MAINTENANCE SCHEDULE"
+#define BEGIN_LINE "# BEGIN Git MAINTENANCE SCHEDULE"
+#define END_LINE "# END Git MAINTENANCE SCHEDULE"
 
 static int crontab_update_schedule(int run_maintenance, int fd)
 {

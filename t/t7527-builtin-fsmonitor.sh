@@ -208,8 +208,8 @@ test_lazy_prereq SHORTNAMES '
 	test -d "FOO~1"
 '
 
-# Here we assume that the shortname of ".git" is "GIT~1".
-test_expect_success MINGW,SHORTNAMES 'implicit daemon stop (rename GIT~1)' '
+# Here we assume that the shortname of ".git" is "Git~1".
+test_expect_success MINGW,SHORTNAMES 'implicit daemon stop (rename Git~1)' '
 	test_when_finished "stop_daemon_delete_repo test_implicit_1s" &&
 
 	git init test_implicit_1s &&
@@ -217,7 +217,7 @@ test_expect_success MINGW,SHORTNAMES 'implicit daemon stop (rename GIT~1)' '
 	start_daemon -C test_implicit_1s &&
 
 	# renaming the .git directory will implicitly stop the daemon.
-	# this moves {.git, GIT~1} to {.gitxyz, GITXYZ~1}.
+	# this moves {.git, Git~1} to {.gitxyz, GITXYZ~1}.
 	# the rename-from FS Event will contain the shortname.
 	#
 	mv test_implicit_1s/GIT~1 test_implicit_1s/.gitxyz &&
@@ -231,7 +231,7 @@ test_expect_success MINGW,SHORTNAMES 'implicit daemon stop (rename GIT~1)' '
 
 # Here we first create a file with LONGNAME of "GIT~1" before
 # we create the repo.  This will cause the shortname of ".git"
-# to be "GIT~2".
+# to be "Git~2".
 test_expect_success MINGW,SHORTNAMES 'implicit daemon stop (rename GIT~2)' '
 	test_when_finished "stop_daemon_delete_repo test_implicit_1s2" &&
 

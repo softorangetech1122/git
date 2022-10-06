@@ -235,6 +235,6 @@ difficult to work with, and it will generally be less performant than
 the first form even on successful merges (especially if working in
 large repositories).
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

@@ -213,6 +213,6 @@ SEE ALSO
 linkgit:git-checkout[1],
 linkgit:git-reset[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

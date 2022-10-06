@@ -269,6 +269,6 @@ SEE ALSO
 --------
 linkgit:git-apply[1].
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

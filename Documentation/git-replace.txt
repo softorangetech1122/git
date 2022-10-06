@@ -156,6 +156,6 @@ linkgit:git-var[1]
 linkgit:git[1]
 https://github.com/newren/git-filter-repo[git-filter-repo]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

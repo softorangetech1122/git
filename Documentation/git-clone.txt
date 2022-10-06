@@ -313,7 +313,7 @@ or `--mirror` is given)
 
 <repository>::
 	The (possibly remote) repository to clone from.  See the
-	<<URLS,GIT URLS>> section below for more information on specifying
+	<<URLS,Git URLS>> section below for more information on specifying
 	repositories.
 
 <directory>::
@@ -380,6 +380,6 @@ include::config/init.txt[]
 include::config/clone.txt[]
 
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

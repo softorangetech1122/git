@@ -30,6 +30,6 @@ what they are for:
 
 * info/refs
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

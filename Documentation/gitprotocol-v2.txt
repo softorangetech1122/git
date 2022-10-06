@@ -578,6 +578,6 @@ and associated requested information, each separated by a single space.
 
 	obj-info = obj-id SP obj-size
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

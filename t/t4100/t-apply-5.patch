@@ -48,7 +48,7 @@ diff a/Documentation/git-rpull.txt b/Documentation/git-rpull.txt
 ---------------
 -Documentation by David Greaves, Junio C Hamano and the git-list <git@vger.kernel.org>.
 -
--GIT
+-Git
 ----
 -Part of the link:git.html[git] suite
 -
@@ -82,7 +82,7 @@ diff a/Documentation/git-rpush.txt b/Documentation/git-rpush.txt
 ---------------
 -Documentation by David Greaves, Junio C Hamano and the git-list <git@vger.kernel.org>.
 -
--GIT
+-Git
 ----
 -Part of the link:git.html[git] suite
 -
@@ -136,7 +136,7 @@ diff a/Documentation/git-ssh-pull.txt b/Documentation/git-ssh-pull.txt
 +--------------
 +Documentation by David Greaves, Junio C Hamano and the git-list <git@vger.kernel.org>.
 +
-+GIT
++Git
 +---
 +Part of the link:git.html[git] suite
 +
@@ -170,7 +170,7 @@ diff a/Documentation/git-ssh-push.txt b/Documentation/git-ssh-push.txt
 +--------------
 +Documentation by David Greaves, Junio C Hamano and the git-list <git@vger.kernel.org>.
 +
-+GIT
++Git
 +---
 +Part of the link:git.html[git] suite
 +

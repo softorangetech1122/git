@@ -121,6 +121,6 @@ linkgit:gitignore[5]
 linkgit:git-config[1]
 linkgit:git-ls-files[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

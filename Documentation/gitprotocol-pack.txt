@@ -720,6 +720,6 @@ An example client/server communication might look like this:
    S: 002ang refs/heads/master non-fast-forward\n
 ----
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

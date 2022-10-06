@@ -1268,7 +1268,7 @@ msgstr "ブラウズ"
 #: lib/choose_repository.tcl:447 lib/choose_repository.tcl:573
 #: lib/choose_repository.tcl:1098
 msgid "Git Repository"
-msgstr "GIT リポジトリ"
+msgstr "Git リポジトリ"
 
 #: lib/choose_repository.tcl:472
 #, tcl-format
@@ -2214,7 +2214,7 @@ msgid ""
 "Updating the Git index failed.  A rescan will be automatically started to "
 "resynchronize git-gui."
 msgstr ""
-"GIT インデックスの更新が失敗しました。git-gui と同期をとるために再スキャンし"
+"Git インデックスの更新が失敗しました。git-gui と同期をとるために再スキャンし"
 "ます。"
 
 #: lib/index.tcl:30

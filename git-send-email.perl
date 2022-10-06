@@ -810,7 +810,7 @@ sub get_patch_subject {
 	while (my $line = <$fh>) {
 		next unless ($line =~ /^Subject: (.*)$/);
 		close $fh;
-		return "GIT: $1\n";
+		return "Git: $1\n";
 	}
 	close $fh;
 	die sprintf(__("No subject line in %s?"), $fn);
@@ -832,10 +832,10 @@ if ($compose) {
 	my $tpl_in_reply_to = $initial_in_reply_to || '';
 	my $tpl_reply_to = $reply_to || '';
 
-	print $c <<EOT1, Git::prefix_lines("GIT: ", __(<<EOT2)), <<EOT3;
+	print $c <<EOT1, Git::prefix_lines("Git: ", __(<<EOT2)), <<EOT3;
 From $tpl_sender # This line is ignored.
 EOT1
-Lines beginning in "GIT:" will be removed.
+Lines beginning in "Git:" will be removed.
 Consider including an overall diffstat or table of contents
 for the patch you are writing.
 
@@ -867,7 +867,7 @@ EOT3
 
 	my %parsed_email;
 	while (my $line = <$c>) {
-		next if $line =~ m/^GIT:/;
+		next if $line =~ m/^Git:/;
 		parse_header_line($line, \%parsed_email);
 		if ($line =~ /^$/) {
 			$parsed_email{'body'} = filter_body($c);
@@ -995,7 +995,7 @@ sub filter_body {
 	my $c = shift;
 	my $body = "";
 	while (my $body_line = <$c>) {
-		if ($body_line !~ m/^GIT:/) {
+		if ($body_line !~ m/^Git:/) {
 			$body .= $body_line;
 		}
 	}

@@ -82,7 +82,7 @@ OPTIONS
 
 <repository>::
 	The "remote" repository to query.  This parameter can be
-	either a URL or the name of a remote (see the GIT URLS and
+	either a URL or the name of a remote (see the Git URLS and
 	REMOTES sections of linkgit:git-fetch[1]).
 
 <refs>...::
@@ -116,6 +116,6 @@ SEE ALSO
 --------
 linkgit:git-check-ref-format[1].
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

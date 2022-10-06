@@ -48,6 +48,6 @@ run_merge_tool::
 	'$MERGED', '$LOCAL', '$REMOTE', and '$BASE' must be defined
 	for use by the merge tool.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

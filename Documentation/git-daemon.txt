@@ -336,6 +336,6 @@ that connected to it, if the IP address is available. REMOTE_ADDR will
 be available in the environment of hooks called when
 services are performed.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

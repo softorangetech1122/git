@@ -63,6 +63,6 @@ git clone ext::'git --namespace=foo %s /tmp/prefixed.git'
 
 include::transfer-data-leaks.txt[]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

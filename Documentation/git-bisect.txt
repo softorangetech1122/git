@@ -505,6 +505,6 @@ SEE ALSO
 link:git-bisect-lk2009.html[Fighting regressions with git bisect],
 linkgit:git-blame[1].
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

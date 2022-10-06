@@ -164,6 +164,6 @@ GIT_INDEX_FILE::
 GIT_ALTERNATE_OBJECT_DIRECTORIES::
 	used to specify additional object database roots (usually unset)
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

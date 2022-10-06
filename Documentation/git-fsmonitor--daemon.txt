@@ -70,6 +70,6 @@ the change (as happening against the super repo).  However, the client
 will properly ignore these extra events, so performance may be affected
 but it will not cause an incorrect result.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

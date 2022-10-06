@@ -615,7 +615,7 @@ static struct branch *new_branch(const char *name)
 	if (b)
 		die("Invalid attempt to create duplicate branch: %s", name);
 	if (check_refname_format(name, REFNAME_ALLOW_ONELEVEL))
-		die("Branch name doesn't conform to GIT standards: %s", name);
+		die("Branch name doesn't conform to Git standards: %s", name);
 
 	b = mem_pool_calloc(&fi_mem_pool, 1, sizeof(struct branch));
 	b->name = mem_pool_strdup(&fi_mem_pool, name);

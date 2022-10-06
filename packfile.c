@@ -124,7 +124,7 @@ int load_idx(const char *path, const unsigned int hashsz, void *idx_map,
 		if (version < 2 || version > 2)
 			return error("index file %s is version %"PRIu32
 				     " and is not supported by this binary"
-				     " (try upgrading GIT to a newer version)",
+				     " (try upgrading Git to a newer version)",
 				     path, version);
 	} else
 		version = 1;
@@ -572,10 +572,10 @@ static int open_packed_git_1(struct packed_git *p)
 	if (read_result != sizeof(hdr))
 		return error("file %s is far too short to be a packfile", p->pack_name);
 	if (hdr.hdr_signature != htonl(PACK_SIGNATURE))
-		return error("file %s is not a GIT packfile", p->pack_name);
+		return error("file %s is not a Git packfile", p->pack_name);
 	if (!pack_version_ok(hdr.hdr_version))
 		return error("packfile %s is version %"PRIu32" and not"
-			" supported (try upgrading GIT to a newer version)",
+			" supported (try upgrading Git to a newer version)",
 			p->pack_name, ntohl(hdr.hdr_version));
 
 	/* Verify the pack matches its index. */

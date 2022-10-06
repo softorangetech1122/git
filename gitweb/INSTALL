@@ -1,4 +1,4 @@
-GIT web Interface (gitweb) Installation
+Git web Interface (gitweb) Installation
 =======================================
 
 First you have to generate gitweb.cgi from gitweb.perl using
@@ -90,7 +90,7 @@ See also "How to configure gitweb for your local system" section below.
 How to configure gitweb for your local system
 ---------------------------------------------
 
-You can specify the following configuration variables when building GIT:
+You can specify the following configuration variables when building Git:
 
  * GIT_BINDIR
    Points where to find the git executable.  You should set it up to

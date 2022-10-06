@@ -353,6 +353,6 @@ does not match any refs is silently ignored.
 If not set in the environment, the list of notes to copy depends
 on the `notes.rewrite.<command>` and `notes.rewriteRef` settings.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

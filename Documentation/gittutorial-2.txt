@@ -431,6 +431,6 @@ linkgit:git-help[1],
 linkgit:giteveryday[7],
 link:user-manual.html[The Git User's Manual]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

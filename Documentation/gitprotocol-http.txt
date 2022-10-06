@@ -538,6 +538,6 @@ SEE ALSO
 linkgit:gitprotocol-pack[5]
 linkgit:gitprotocol-capabilities[5]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

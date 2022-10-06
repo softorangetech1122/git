@@ -292,6 +292,6 @@ SEE ALSO
 --------
 linkgit:git-log[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

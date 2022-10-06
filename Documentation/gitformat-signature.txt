@@ -212,6 +212,6 @@ Date:   Wed Jun 15 09:13:29 2016 +0000
     # Primary key fingerprint: D4BE 2231 1AD3 131E 5EDA  29A4 6109 2E85 B722 7189
 ----
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

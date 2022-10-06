@@ -242,6 +242,6 @@ linkgit:git-rev-list[1],
 linkgit:git-show-branch[1],
 linkgit:git-merge[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

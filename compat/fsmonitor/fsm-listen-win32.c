@@ -156,7 +156,7 @@ static void check_for_shortnames(struct one_watch *watch)
 		ARRAY_SIZE(watch->dotgit_shortname));
 
 	/*
-	 * The shortname for ".git" is usually of the form "GIT~1", so
+	 * The shortname for ".git" is usually of the form "Git~1", so
 	 * we should be able to avoid shortname to longname mapping on
 	 * every notification event if the source string does not
 	 * contain a "~".
@@ -590,7 +590,7 @@ static int process_worktree_events(struct fsmonitor_daemon_state *state)
 				 * ".git", so we can skip some steps.
 				 *
 				 * (This case is odd because the user
-				 * can "rm -rf GIT~1" and we cannot
+				 * can "rm -rf Git~1" and we cannot
 				 * use the filesystem to map it back
 				 * to ".git".)
 				 */

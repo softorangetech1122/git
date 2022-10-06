@@ -264,6 +264,6 @@ linkgit:git-fetch[1]
 linkgit:git-branch[1]
 linkgit:git-config[1]
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

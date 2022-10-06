@@ -428,6 +428,6 @@ DEPENDENCIES
 ------------
 'git-cvsserver' depends on DBD::SQLite.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

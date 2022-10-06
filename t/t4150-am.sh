@@ -135,7 +135,7 @@ test_expect_success setup '
 	mkdir stgit-series &&
 	cp patch1-stgit.eml stgit-series/patch &&
 	{
-		echo "# This series applies on GIT commit $(git rev-parse first)" &&
+		echo "# This series applies on Git commit $(git rev-parse first)" &&
 		echo "patch"
 	} >stgit-series/series &&
 	{

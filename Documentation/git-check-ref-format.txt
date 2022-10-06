@@ -135,6 +135,6 @@ $ ref=$(git check-ref-format --normalize "refs/heads/$newbranch")||
 { echo "we do not like '$newbranch' as a branch name." >&2 ; exit 1 ; }
 ------------
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

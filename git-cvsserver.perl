@@ -343,7 +343,7 @@ sub req_Root
 	}
 
 	unless ($allowed) {
-	    print "E $ENV{GIT_DIR} does not seem to be a valid GIT repository\n";
+	    print "E $ENV{GIT_DIR} does not seem to be a valid Git repository\n";
 	    print "E \n";
 	    print "error 1 $ENV{GIT_DIR} is not a valid repository\n";
 	    return 0;
@@ -351,7 +351,7 @@ sub req_Root
     }
 
     unless (-d $ENV{GIT_DIR} && -e $ENV{GIT_DIR}.'HEAD') {
-       print "E $ENV{GIT_DIR} does not seem to be a valid GIT repository\n";
+       print "E $ENV{GIT_DIR} does not seem to be a valid Git repository\n";
        print "E \n";
        print "error 1 $ENV{GIT_DIR} is not a valid repository\n";
        return 0;

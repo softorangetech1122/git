@@ -137,13 +137,13 @@ include shared.mak
 # but are not needed unless you plan to talk to SVN repos.
 #
 # Define NO_FINK if you are building on Darwin/Mac OS X, have Fink
-# installed in /sw, but don't want GIT to link against any libraries
+# installed in /sw, but don't want Git to link against any libraries
 # installed there.  If defined you may specify your own (or Fink's)
 # include directories and library directories by defining CFLAGS
 # and LDFLAGS appropriately.
 #
 # Define NO_DARWIN_PORTS if you are building on Darwin/Mac OS X,
-# have DarwinPorts installed in /opt/local, but don't want GIT to
+# have DarwinPorts installed in /opt/local, but don't want Git to
 # link against any libraries installed there.  If defined you may
 # specify your own (or DarwinPort's) include directories and
 # library directories by defining CFLAGS and LDFLAGS appropriately.
@@ -2482,7 +2482,7 @@ configure: configure.ac GIT-VERSION-FILE
 
 ifdef AUTOCONFIGURED
 # We avoid depending on 'configure' here, because it gets rebuilt
-# every time GIT-VERSION-FILE is modified, only to update the embedded
+# every time Git-VERSION-FILE is modified, only to update the embedded
 # version number string, which config.status does not care about.  We
 # do want to recheck when the platform/environment detection logic
 # changes, hence this depends on configure.ac.

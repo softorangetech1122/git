@@ -648,7 +648,7 @@ static int detect_patch_format(const char **paths)
 		goto done;
 	}
 
-	if (starts_with(l1.buf, "# This series applies on GIT commit")) {
+	if (starts_with(l1.buf, "# This series applies on Git commit")) {
 		ret = PATCH_FORMAT_STGIT_SERIES;
 		goto done;
 	}

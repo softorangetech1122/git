@@ -13,7 +13,7 @@ diff --git a/Documentation/git-cvsimport-script.txt b/Documentation/git-cvsimpor
  	are supported.
  
 +-C <target-dir>::
-+        The GIT repository to import to.  If the directory doesn't
++        The Git repository to import to.  If the directory doesn't
 +        exist, it will be created.  Default is the current directory.
 +
  -i::
@@ -61,7 +61,7 @@ diff --git a/git-cvsimport-script b/git-cvsimport-script
  		push(@old,$fn);
 
 -- 
-David Kågedal
+David Kï¿½gedal
 -
 To unsubscribe from this list: send the line "unsubscribe git" in
 the body of a message to majordomo@vger.kernel.org

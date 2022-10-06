@@ -16,6 +16,6 @@ DESCRIPTION
 This is the standard helper program to use with 'git merge-index'
 to resolve a merge after the trivial merge done with 'git read-tree -m'.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

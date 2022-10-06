@@ -1,5 +1,5 @@
 /*
- * GIT - The information manager from hell
+ * Git - The information manager from hell
  *
  * Copyright (C) Linus Torvalds, 2005
  */
@@ -220,7 +220,7 @@ int match_stat_data(const struct stat_data *sd, struct stat *st)
 
 /*
  * This only updates the "non-critical" parts of the directory
- * cache, ie the parts that aren't tracked by GIT, and only used
+ * cache, ie the parts that aren't tracked by Git, and only used
  * to validate the cache.
  */
 void fill_stat_cache_info(struct index_state *istate, struct cache_entry *ce, struct stat *st)
@@ -1010,7 +1010,7 @@ static int verify_dotfile(const char *rest, unsigned mode)
 	/*
 	 * ".git" followed by NUL or slash is bad. Note that we match
 	 * case-insensitively here, even if ignore_case is not set.
-	 * This outlaws ".GIT" everywhere out of an abundance of caution,
+	 * This outlaws ".Git" everywhere out of an abundance of caution,
 	 * since there's really no good reason to allow it.
 	 *
 	 * Once we've seen ".git", we can also find ".gitmodules", etc (also

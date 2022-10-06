@@ -514,7 +514,7 @@ test_expect_success 'fetch with a non-applying branch.<name>.merge' '
 '
 
 # URL supplied to fetch does not match the url of the configured branch's remote
-test_expect_success 'fetch from GIT URL with a non-applying branch.<name>.merge [1]' '
+test_expect_success 'fetch from Git URL with a non-applying branch.<name>.merge [1]' '
 	one_head=$(cd one && git rev-parse HEAD) &&
 	this_head=$(git rev-parse HEAD) &&
 	git update-ref -d FETCH_HEAD &&
@@ -525,7 +525,7 @@ test_expect_success 'fetch from GIT URL with a non-applying branch.<name>.merge 
 
 # URL supplied to fetch matches the url of the configured branch's remote and
 # the merge spec matches the branch the remote HEAD points to
-test_expect_success 'fetch from GIT URL with a non-applying branch.<name>.merge [2]' '
+test_expect_success 'fetch from Git URL with a non-applying branch.<name>.merge [2]' '
 	one_ref=$(cd one && git symbolic-ref HEAD) &&
 	git config branch.main.remote blub &&
 	git config branch.main.merge "$one_ref" &&
@@ -537,7 +537,7 @@ test_expect_success 'fetch from GIT URL with a non-applying branch.<name>.merge 
 
 # URL supplied to fetch matches the url of the configured branch's remote, but
 # the merge spec does not match the branch the remote HEAD points to
-test_expect_success 'fetch from GIT URL with a non-applying branch.<name>.merge [3]' '
+test_expect_success 'fetch from Git URL with a non-applying branch.<name>.merge [3]' '
 	git config branch.main.merge "${one_ref}_not" &&
 	git update-ref -d FETCH_HEAD &&
 	git fetch one &&

@@ -283,7 +283,7 @@ $ git merge topic/one topic/two && git merge hold/linus <8>
 $ git switch maint
 $ git cherry-pick master~4 <9>
 $ compile/test
-$ git tag -s -m "GIT 0.99.9x" v0.99.9x <10>
+$ git tag -s -m "Git 0.99.9x" v0.99.9x <10>
 $ git fetch ko && for branch in master maint next seen <11>
     do
 	git show-branch ko/$branch $branch <12>
@@ -450,6 +450,6 @@ for branch policy control.
 david is the release manager and is the only person who can
 create and push version tags.
 
-GIT
+Git
 ---
 Part of the linkgit:git[1] suite

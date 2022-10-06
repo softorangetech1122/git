@@ -302,7 +302,7 @@ foreach my $f (@files) {
 	warn "File $f not up to date but has status '$cvsstat{$f}' in your CVS checkout!\n";
     }
 
-    # Depending on how your GIT tree got imported from CVS you may
+    # Depending on how your Git tree got imported from CVS you may
     # have a conflict between expanded keywords in your CVS tree and
     # unexpanded keywords in the patch about to be applied.
     if ($opt_k) {

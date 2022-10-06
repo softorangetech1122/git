@@ -1,5 +1,5 @@
 /*
- * GIT - The information manager from hell
+ * Git - The information manager from hell
  *
  * Copyright (C) Linus Torvalds, 2005
  * Copyright (C) Johannes Schindelin, 2005
